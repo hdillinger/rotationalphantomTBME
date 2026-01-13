@@ -1,0 +1,5 @@
+numpy
+pycomm3
+PyQt5
+pyqtgraph
+QLed

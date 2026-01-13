@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="68.923927mm"
+   height="58.759724mm"
+   viewBox="0 0 68.923927 58.759724"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="Fig2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.1536195"
+     inkscape:cx="118.59389"
+     inkscape:cy="99.726678"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.788568,-100.54167)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,20.372917,66.939584)"
+       id="g54">
+      <path
+         d="m 103,257 c 0,-42.526 34.474,-77 77,-77 42.526,0 77,34.474 77,77 0,42.526 -34.474,77 -77,77 -42.526,0 -77,-34.474 -77,-77 z"
+         stroke="#7f7f7f"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#f2f2f2"
+         fill-rule="evenodd"
+         id="path1" />
+      <path
+         d="m 152.996,229.165 c 26.608,-25.582 60.245,-33.768 75.131,-18.285 14.887,15.483 5.385,48.772 -21.223,74.354 -26.607,25.582 -60.245,33.769 -75.131,18.286 -14.886,-15.483 -5.384,-48.773 21.223,-74.355 z"
+         stroke="#000000"
+         stroke-width="3"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path2" />
+      <path
+         d="m 153.111,229.165 c 26.607,-25.582 60.244,-33.768 75.131,-18.285 14.886,15.483 5.384,48.772 -21.224,74.354 -26.607,25.582 -60.244,33.769 -75.131,18.286 -14.886,-15.483 -5.384,-48.773 21.224,-74.355 z"
+         stroke="#ffff00"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path3" />
+      <path
+         d="m 180.5,257.5 v 91.584"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="5.33333, 2, 0.666667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path4" />
+      <path
+         d="M 180.084,257.5 H 88.5001"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="5.33333, 2, 0.666667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path5" />
+      <path
+         d="M 180.5,258.084 V 166.5"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="5.33333, 2, 0.666667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path6" />
+      <path
+         d="m 180.5,257.5 h 91.584"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="5.33333, 2, 0.666667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path7" />
+      <path
+         d="M 0,54.5 C 0,24.4005 24.1766,0 54,0 83.8234,0 108,24.4005 108,54.5 108,84.5995 83.8234,109 54,109 24.1766,109 0,84.5995 0,54.5 Z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,126,312)"
+         id="path8" />
+      <path
+         d="M 0.993979,-0.109568 1.71182,6.40259 -0.276136,6.62173 -0.993979,0.109568 Z M 4.54767,4.74858 1.44829,13.1387 -3.40416,5.62512 Z"
+         transform="matrix(1,0,0,-1,233,270.139)"
+         id="path9" />
+      <rect
+         x="273"
+         y="236"
+         width="76"
+         height="42"
+         fill="#ffffff"
+         id="rect9" />
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(292.393,254)"
+         id="text9">Phase</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(329.727,254)"
+         id="text10"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(283.393,270)"
+         id="text11">encoding</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(338.727,270)"
+         id="text12"></text>
+      <rect
+         x="138"
+         y="127"
+         width="83"
+         height="42"
+         fill="#ffffff"
+         id="rect12" />
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(148.46,144)"
+         id="text13">Frequency</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(211.127,144)"
+         id="text14"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(152.127,160)"
+         id="text15">encoding</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(207.46,160)"
+         id="text16"></text>
+      <rect
+         x="286"
+         y="214"
+         width="53"
+         height="26"
+         fill="#ffffff"
+         id="rect16" />
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(295.391,232)"
+         id="text17">𝒓</text>
+      <path
+         d="m 300.837,221.186 1.594,1.377 v 0.369 l -1.594,1.377 -0.336,-0.381 1.016,-0.882 h -2.311 -1.561 -2.247 v -0.597 h 2.247 1.561 2.311 l -1.016,-0.882 z"
+         fill-rule="evenodd"
+         id="path17" />
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(302.558,232)"
+         id="text18">(</text>
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(308.058,232)"
+         id="text19">𝒕</text>
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="10px"
+         transform="translate(313.725,234)"
+         id="text20">𝟑</text>
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(320.111,232)"
+         id="text21">)</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(325.611,232)"
+         id="text22"></text>
+      <rect
+         x="231"
+         y="136"
+         width="56"
+         height="26"
+         fill="#ffffff"
+         id="rect22" />
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(240.62,154)"
+         id="text23">𝒓</text>
+      <path
+         d="m 246.066,143.286 1.594,1.377 v 0.368 l -1.594,1.378 -0.336,-0.381 1.016,-0.882 h -2.311 -1.562 -2.246 v -0.597 h 2.246 1.562 2.311 l -1.016,-0.882 z"
+         fill-rule="evenodd"
+         id="path23" />
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(247.787,154)"
+         id="text24">(</text>
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(253.287,154)"
+         id="text25">𝑻</text>
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="10px"
+         transform="translate(261.62,156)"
+         id="text26">𝑬</text>
+      <text
+         font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(268.507,154)"
+         id="text27">)</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(274.007,154)"
+         id="text28"></text>
+      <path
+         d="m 239.759,230.035 6.167,0.648 h -0.004 l 5.366,0.529 -0.005,-10e-4 4.921,0.441 -0.007,-10e-4 4.328,0.323 -0.012,-10e-4 3.588,0.176 -0.025,-0.001 2.699,-0.001 -0.061,0.004 1.662,-0.207 -0.263,0.116 0.255,-0.218 -0.055,0.705 -0.278,-0.324 0.133,0.11 -0.733,-0.415 0.044,0.022 -1.112,-0.49 0.026,0.01 -3.049,-1.144 0.011,0.004 -3.632,-1.261 -3.604,-1.255 -2.962,-1.131 -1.074,-0.494 -0.775,-0.482 -0.468,-0.876 0.941,-0.458 1.08,-0.095 1.501,-0.002 1.922,0.073 2.288,0.138 5.41,0.433 6.092,0.579 6.244,0.651 5.866,0.648 4.957,0.57 1.972,0.232 1.546,0.185 -0.119,0.993 -1.544,-0.185 -1.97,-0.232 -4.955,-0.57 0.003,0.001 -5.864,-0.648 h 0.003 l -6.24,-0.65 h 0.004 l -6.086,-0.579 0.007,0.001 -5.401,-0.432 0.01,0.001 -2.277,-0.137 h 0.011 l -1.907,-0.072 h 0.02 l -1.47,0.002 0.043,-0.002 -0.966,0.085 0.175,-0.048 -0.391,0.19 0.222,-0.685 0.16,0.3 -0.177,-0.189 0.634,0.395 -0.055,-0.03 1.03,0.473 -0.03,-0.012 2.94,1.122 -0.014,-0.005 3.596,1.253 3.638,1.262 3.068,1.152 1.148,0.506 0.832,0.47 0.661,0.771 -0.749,0.641 -1.843,0.23 -2.742,0.001 -3.607,-0.176 -4.338,-0.324 -4.927,-0.441 -5.369,-0.529 -6.169,-0.648 z m -0.053,0.497 2.235,4.257 -7.539,-4.814 8.374,-3.142 z"
+         fill="#042433"
+         id="path28" />
+      <path
+         d="M 0,0 1.04987e-4,47.5263"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,227.5,258.026)"
+         id="path29" />
+      <path
+         d="M 0,0 44.7039,1.04987e-4"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,224.204,210.5)"
+         id="path30" />
+      <path
+         d="m 222,229 c 0,-2.209 2.015,-4 4.5,-4 2.485,0 4.5,1.791 4.5,4 0,2.209 -2.015,4 -4.5,4 -2.485,0 -4.5,-1.791 -4.5,-4 z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         id="path31" />
+      <path
+         d="m 202,210 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 -2.209,0 -4,-1.791 -4,-4 z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         id="path32" />
+      <path
+         d="m 222,210 c 0,-2.209 2.015,-4 4.5,-4 2.485,0 4.5,1.791 4.5,4 0,2.209 -2.015,4 -4.5,4 -2.485,0 -4.5,-1.791 -4.5,-4 z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#ffff00"
+         fill-rule="evenodd"
+         id="path33" />
+      <path
+         d="m 213.111,199.158 4.482,-4.285 -0.002,0.002 3.872,-3.751 -0.003,0.003 3.518,-3.469 -0.005,0.005 3.045,-3.093 -0.009,0.009 2.454,-2.623 -0.017,0.018 1.745,-2.06 -0.037,0.05 0.917,-1.402 -0.082,0.276 -0.002,-0.336 0.503,0.498 -0.427,0.002 0.17,-0.031 -0.791,0.292 0.046,-0.02 -1.093,0.532 0.024,-0.013 -2.844,1.586 0.011,-0.006 -3.311,1.956 -3.288,1.937 -2.778,1.529 -1.071,0.5 -0.868,0.279 -0.971,-0.21 0.259,-1.013 0.625,-0.886 0.97,-1.146 1.298,-1.419 1.585,-1.656 3.827,-3.847 4.381,-4.273 4.535,-4.343 4.287,-4.056 3.639,-3.412 1.453,-1.354 1.14,-1.06 0.681,0.733 -1.139,1.058 -1.451,1.352 -3.638,3.412 0.001,-0.001 -4.285,4.054 0.002,-0.002 -4.531,4.339 0.003,-0.003 -4.377,4.269 0.006,-0.005 -3.822,3.841 0.007,-0.007 -1.577,1.648 0.007,-0.008 -1.288,1.408 0.013,-0.015 -0.949,1.122 0.027,-0.034 -0.56,0.792 0.076,-0.164 -0.108,0.421 -0.379,-0.613 0.333,0.072 -0.259,0.013 0.711,-0.229 -0.058,0.023 1.027,-0.479 -0.029,0.015 2.757,-1.518 -0.013,0.007 3.281,-1.932 3.315,-1.96 2.863,-1.595 1.128,-0.549 0.896,-0.33 1.016,-0.006 0.005,0.986 -1.016,1.554 -1.773,2.093 -2.466,2.637 -3.052,3.101 -3.522,3.473 -3.876,3.753 -4.483,4.287 z m 0.346,0.362 4.692,1.048 -8.547,2.638 3.018,-8.42 z"
+         fill="#042433"
+         id="path34" />
+      <path
+         d="M 0,0 1.04987e-4,47.5263"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,133.5,258.5)"
+         id="path35" />
+      <path
+         d="M 0,0 44.7039,1.04987e-4"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,136.5,305.5)"
+         id="path36" />
+      <path
+         d="m 137,286 c 0,2.209 -1.791,4 -4,4 -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         id="path37" />
+      <path
+         d="m 158,305 c 0,2.209 -2.015,4 -4.5,4 -2.485,0 -4.5,-1.791 -4.5,-4 0,-2.209 2.015,-4 4.5,-4 2.485,0 4.5,1.791 4.5,4 z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         id="path38" />
+      <path
+         d="m 137,305 c 0,2.209 -1.791,4 -4,4 -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#ffff00"
+         fill-rule="evenodd"
+         id="path39" />
+      <path
+         d="M 153.5,258.026 V 210.5"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path40" />
+      <path
+         d="m 134.5,229.5 h 44.704"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path41" />
+      <path
+         d="M 0,4 C 0,1.79086 1.79086,0 4,0 6.20914,0 8,1.79086 8,4 8,6.20914 6.20914,8 4,8 1.79086,8 0,6.20914 0,4 Z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,137,225)"
+         id="path42" />
+      <path
+         d="M 0,4 C 0,1.79086 2.01472,0 4.5,0 6.98528,0 9,1.79086 9,4 9,6.20914 6.98528,8 4.5,8 2.01472,8 0,6.20914 0,4 Z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,158,206)"
+         id="path43" />
+      <path
+         d="M 0,4 C 0,1.79086 2.01472,0 4.5,0 6.98528,0 9,1.79086 9,4 9,6.20914 6.98528,8 4.5,8 2.01472,8 0,6.20914 0,4 Z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#ffff00"
+         fill-rule="evenodd"
+         transform="matrix(-1,0,0,1,158,225)"
+         id="path44" />
+      <path
+         d="m 206.5,257.5 v 47.526"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path45" />
+      <path
+         d="M 226.204,286.5 H 181.5"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path46" />
+      <path
+         d="M 0,4 C 0,1.79086 2.01472,0 4.5,0 6.98528,0 9,1.79086 9,4 9,6.20914 6.98528,8 4.5,8 2.01472,8 0,6.20914 0,4 Z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,222,290)"
+         id="path47" />
+      <path
+         d="M 0,4 C 0,1.79086 1.79086,0 4,0 6.20914,0 8,1.79086 8,4 8,6.20914 6.20914,8 4,8 1.79086,8 0,6.20914 0,4 Z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#ffffff"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,202,309)"
+         id="path48" />
+      <path
+         d="M 0,4 C 0,1.79086 1.79086,0 4,0 6.20914,0 8,1.79086 8,4 8,6.20914 6.20914,8 4,8 1.79086,8 0,6.20914 0,4 Z"
+         stroke="#042433"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="#ffff00"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,202,290)"
+         id="path49" />
+      <path
+         d="M 0.993979,-0.109568 1.71182,6.40259 -0.276136,6.62173 -0.993979,0.109568 Z M 4.54767,4.74858 1.44829,13.1387 -3.40416,5.62512 Z"
+         transform="matrix(-1,0,0,1,126.448,244)"
+         id="path50" />
+      <path
+         d="m 236.254,204.522 5.538,-2.791 -0.003,0.001 4.799,-2.457 -0.004,0.002 4.377,-2.291 -0.007,0.004 3.816,-2.07 -0.011,0.006 3.112,-1.793 -0.021,0.013 2.27,-1.461 -0.05,0.037 1.286,-1.074 -0.158,0.241 0.096,-0.322 0.336,0.623 -0.409,-0.122 0.171,0.02 -0.842,0.048 0.05,-0.006 -1.201,0.189 0.028,-0.005 -3.184,0.687 0.012,-0.003 -3.737,0.904 -3.71,0.893 -3.103,0.652 -1.171,0.166 -0.912,0.013 -0.867,-0.484 0.543,-0.894 0.857,-0.664 1.262,-0.814 1.656,-0.978 1.999,-1.121 4.784,-2.562 5.437,-2.808 5.605,-2.83 5.284,-2.628 4.477,-2.201 1.785,-0.872 1.4,-0.68 0.437,0.899 -1.399,0.68 -1.782,0.87 -4.476,2.201 0.002,-0.001 -5.282,2.627 0.003,-0.002 -5.601,2.828 0.004,-0.002 -5.432,2.805 0.007,-0.003 -4.777,2.558 0.009,-0.005 -1.99,1.117 0.01,-0.006 -1.643,0.97 0.017,-0.01 -1.236,0.797 0.036,-0.026 -0.767,0.595 0.121,-0.135 -0.226,0.371 -0.184,-0.696 0.297,0.166 -0.251,-0.064 0.747,-0.011 -0.063,0.005 1.123,-0.159 -0.032,0.006 3.08,-0.647 -0.015,0.004 3.702,-0.891 3.743,-0.906 3.204,-0.691 1.239,-0.195 0.954,-0.055 0.973,0.291 -0.283,0.945 -1.426,1.189 -2.306,1.485 -3.129,1.802 -3.824,2.075 -4.383,2.293 -4.802,2.459 -5.539,2.792 z m 0.225,0.446 4.182,2.372 -8.945,0.028 5.344,-7.172 z"
+         fill="#042433"
+         id="path51" />
+      <rect
+         x="277"
+         y="156"
+         width="68"
+         height="42"
+         fill="#ffffff"
+         id="rect51" />
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(288.727,173)"
+         id="text51">Imaged</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(333.561,173)"
+         id="text52"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(286.974,189)"
+         id="text53">position</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(335.307,189)"
+         id="text54"></text>
+    </g>
+  </g>
+</svg>
