@@ -1,93 +1,172 @@
-# rotationalphantomTBME
+![](/static/PTB-Logo_RGB_englisch.png) 
 
+# Open-Source Air-Driven Rotational MRI Phantom
 
+This repository accompanies the paper
 
-## Getting started
+**“Analytical Ground Truth for Phase-Contrast MRI experiments and simulations: Open-Source Precision-Controlled Bidirectional Rotational Phantom”**
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+published in IEEE Transactions of Biomedical Engineering by Yu Wang, Sina Thuemmler, Sebastian Schmitter and Hannes Dillinger from Physikalisch-Technische Bundesanstalt (PTB), Department 8.1 - Biomedical Magnetic Resonance, Abbestr. 2 - 12,  D-10587 Berlin, Germany.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+It provides all hardware designs, control software and data analysis code required to reproduce the phantom, perform MRI experiments and evaluate displacement artefacts and apparent acceleration sensitivity in phase-contrast MRI (PC-MRI).
 
-## Add your files
+Phantom             |  Air inlets
+:-------------------------:|:-------------------------:
+![](/static/D2876_060.jpg)  |  ![](/static/D2876_064.jpg)
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
+## Overview
 
+This project presents a fully open-source, air-driven, bidirectional rotational MRI phantom with analytically defined motion. The phantom enables accurate, reproducible and standardized evaluation of:
+
+- Displacement artefacts in arbitrary MRI sequences  
+- Velocity and acceleration sensitivity in PC-MRI  
+- Timing offsets between spatial and velocity encoding  
+- Agreement between *in-silico* Bloch simulations and *in-vitro* MRI measurements  
+
+A key contribution is the seamless use of the **same MRI sequence definitions** for simulations and experiments, narrowing the gap between numerical modeling and physical validation.
+
+## Main Idea
+
+The analytical velocities are given as $\vec{v}=\vec{\omega}\times\vec{r}$, where $\vec{r}$ denote the radius from the center and $\vec{\omega}=2\pi \, n/60$ with $[n]=1\,\mathrm{rpm}$ the rotational frequency. For a given rotational frequency, the velocities in the encoding directions x and y yield a velocity ramp in y and x directions, respectively. This allows for evaluation of the range of velocities of $v=[-|\vec{v}|,|\vec{v}|]$ within a single PC-MR image.
+
+The apparent acceleration $\vec{a}=\vec{\omega}\times\vec{v}$ for a solid body rotation results in $\vec{a}=-\omega^2\vec{r}$. N.B. the sign of the velocity is dependent on the rotational direction, whereas the apparent acceleration always points towards the center of rotation.
+
+## Key Features
+
+- Bidirectional rotation (clockwise and counterclockwise) driven by actively controlled airflow (PID control)
+- MRI-compatible design with external laser-based tachometer  
+- Analytically defined ground truth motion for error quantification of MRI velocity estimates
+- Fully open-source hardware and software  
+- Validated on a 3T MRI system using vendor-supplied and custom PC-MRI sequences  
+- Excellent agreement between simulation and experiment  
+
+## Use Cases
+- Characterization of sequence timings without knowledge about gradient waveforms
+- Evaluation of velocity-to-noise ratios over a broad range of velocities
+- Rapid testing of motion-sensitive sequences
+
+## Repository Structure
+
+```bash
+.
+├───data
+|   MRI data (reconstructed and raw)
+
+├───docs
+|   Documentation of MRI sequences and external hardware
+│   └───hardware_datasheets
+
+├───hardware
+|   CAD files and hardware documentation
+│   └───Rotationsphantom
+
+├───publication
+|   Publication manuscript and supplementary informations
+│   └───figures
+      Publication figure in SVG format
+
+├───software
+│   └───pid
+|   Python script for PID control and logging
+│   └───sim
+|   Python script for MRI simulation
+│   └───eval
+|   Python script for data evaluation
+
+|───static
+|   Resources for repository
 ```
-cd existing_repo
-git remote add origin https://gitlab1.ptb.de/dillin01/rotationalphantomtbme.git
-git branch -M main
-git push -uf origin main
-```
 
-## Integrate with your tools
+## Hardware Description
 
-- [ ] [Set up project integrations](https://gitlab1.ptb.de/dillin01/rotationalphantomtbme/-/settings/integrations)
+The phantom consists of:
 
-## Collaborate with your team
+- A rotating cylindrical container filled with a polyvinylpyrrolidone (PVP)–water mixture  
+- Pneumatically driven rotation with active feedback control  
+- External laser-based tachometer providing high-precision angular velocity measurements  
+- Fully MRI-compatible materials and layout  
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
+Complete CAD files, bills of materials, and assembly instructions are provided in the `hardware/` directory.
 
-## Test and Deploy
+![](/static/step_animation.gif)
 
-Use the built-in continuous integration in GitLab.
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+## Software and Analysis
 
-***
+All analysis and visualization scripts are written in **Python** and provided in the `software/analysis/` directory.
 
-# Editing this README
+The code enables:
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+- Import of MRI magnitude and velocity images  
+- Comparison against analytical ground truth motion  
+- Quantification of:
+  - Displacement artefacts  
+  - Apparent acceleration sensitivity  
+  - Timing offsets between spatial and velocity encoding  
+- Direct comparison of experimental results with Bloch simulations  
 
-## Suggestions for a good README
+The scripts used to generate figures and quantitative results reported in the paper are included.
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+![](/static/gui.png)
 
-## Name
-Choose a self-explaining name for your project.
+## Reproducibility and Validation
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+Using this framework, the following key results were demonstrated:
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+- Displacement errors causing up to 10% radial stretch at physiological angular velocities  
+- Apparent acceleration sensitivity of approximately 5% of venc  
+- Quantification of a 1.9 ms timing offset between velocity and spatial encoding without prior sequence knowledge  
+- Excellent agreement between MRI experiments and Bloch simulations  
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+This makes the phantom suitable for:
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+- Sequence development and benchmarking  
+- Quality assurance across MRI systems  
+- Cross-institutional validation studies  
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+## Getting Started
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+1. **Build the phantom**  
+   Follow the instructions in `docs/assembly_instructions.md`.
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+2. **Calibrate the system**  
+   See `docs/calibration.md` for tachometer and airflow calibration.
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+3. **Acquire MRI data**  
+   Use vendor or custom PC-MRI sequences as described in `docs/experimental_protocol.md`.
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+4. **Run analysis**  
+   Execute the Python scripts in `software/analysis/` to reproduce the evaluation and plots.
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+## Requirements
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+- Python
+- NumPy  
+- SciPy  
+- Matplotlib  
+- nibabel  
+
+A `requirements.txt` file is provided for convenience.
 
 ## License
-For open source projects, say how it is licensed.
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+This project is released under the **MIT License**.
+
+You are free to use, modify, and distribute this work, provided that the original authors are credited. See the `LICENSE` file for details.
+
+## Questions
+
+Check out our department homepage for more information and contact info https://www.ptb.de/cms/ptb/fachabteilungen/abt8/fb-81.html.
+
+## Citation
+
+If you use this phantom, software, or data in your research, please cite the accompanying paper:
+
+```bibtex
+@article{OpenSourceRotationalPhantom,
+  title   = {Analytical Ground Truth for Phase-Contrast MRI experiments and simulations: Open-Source Precision-Controlled Bidirectional Rotational Phantom},
+  author  = {...},
+  journal = {...},
+  year    = {...}
+}
+```

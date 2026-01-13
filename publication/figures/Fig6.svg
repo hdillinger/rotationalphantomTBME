@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="88.165268mm"
+   height="95.205902mm"
+   viewBox="0 0 88.165268 95.205902"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="Fig6.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.5768098"
+     inkscape:cx="296.80182"
+     inkscape:cy="173.45149"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(86.386471,-107.15625)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-85.989583,102.12917)"
+       id="g86">
+      <rect
+         x="228"
+         y="19"
+         width="101"
+         height="359"
+         fill="#f2f2f2"
+         id="rect1" />
+      <rect
+         x="113"
+         y="20"
+         width="95"
+         height="358"
+         fill="#d9d9d9"
+         id="rect2" />
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(153.355,38)"
+         id="text2">CW</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(173.688,38)"
+         id="text3"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(264.783,38)"
+         id="text4">CCW</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(293.783,38)"
+         id="text5"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(115.96,62)"
+         id="text6">mag</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(142.293,62)"
+         id="text7"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(158.572,62)"
+         id="text8">v</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="9px"
+         transform="translate(165.405,64)"
+         id="text9">x</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="9px"
+         transform="translate(169.905,64)"
+         id="text10"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(189.235,62)"
+         id="text11">v</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="9px"
+         transform="translate(196.069,64)"
+         id="text12">y</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="9px"
+         transform="translate(200.569,64)"
+         id="text13"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(231.847,62)"
+         id="text14">mag</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(258.181,62)"
+         id="text15"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(274.46,62)"
+         id="text16">v</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="9px"
+         transform="translate(281.293,64)"
+         id="text17">x</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="9px"
+         transform="translate(285.793,64)"
+         id="text18"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="13px"
+         transform="translate(305.123,62)"
+         id="text19">v</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="9px"
+         transform="translate(311.956,64)"
+         id="text20">y</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="9px"
+         transform="translate(316.456,64)"
+         id="text21"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(20.9333,90)"
+         id="text22">Displacement</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(55.6,106)"
+         id="text23">artefact</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(102.1,106)"
+         id="text24"></text>
+      <path
+         d="M 128.5,71.5001 V 373.327"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path24" />
+      <path
+         d="M 164.5,71.5001 V 373.327"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path25" />
+      <path
+         d="M 201.5,71.5001 V 373.327"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path26" />
+      <path
+         d="M 238.5,71.5001 V 373.327"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path27" />
+      <path
+         d="M 274.5,71.5001 V 373.327"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path28" />
+      <path
+         d="M 311.5,71.5001 V 373.327"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path29" />
+      <path
+         d="m 128,92 109.913,1e-4 v 2 L 128,94 Z m 0,5 c -2.209,0 -4,-1.7909 -4,-4 0,-2.2091 1.791,-4 4,-4 2.209,0 4,1.7909 4,4 0,2.2091 -1.791,4 -4,4 z m 109.913,-7.9999 c 2.209,0 4,1.7909 4,4 0,2.2092 -1.791,4 -4,4 -2.209,0 -4,-1.7909 -4,-4 0,-2.2091 1.791,-4 4,-4 z"
+         fill="#7f7f7f"
+         id="path30" />
+      <path
+         d="m 137,93.5 c 0,-4.6944 3.806,-8.5 8.5,-8.5 4.694,0 8.5,3.8056 8.5,8.5 0,4.6944 -3.806,8.5 -8.5,8.5 -4.694,0 -8.5,-3.8056 -8.5,-8.5 z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill-rule="evenodd"
+         id="path31" />
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(141.159,99)"
+         id="text31">-</text>
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(149.492,99)"
+         id="text32"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(21.2667,132)"
+         id="text33">Accuray vel. &amp;</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(104.6,132)"
+         id="text34"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(10.1,148)"
+         id="text35">enc. time points</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(104.6,148)"
+         id="text36"></text>
+      <path
+         d="m 160,135.5 c 0,-2.485 2.015,-4.5 4.5,-4.5 2.485,0 4.5,2.015 4.5,4.5 0,2.485 -2.015,4.5 -4.5,4.5 -2.485,0 -4.5,-2.015 -4.5,-4.5 z"
+         fill="#7f7f7f"
+         fill-rule="evenodd"
+         id="path36" />
+      <path
+         d="m 197,135.5 c 0,-2.485 1.791,-4.5 4,-4.5 2.209,0 4,2.015 4,4.5 0,2.485 -1.791,4.5 -4,4.5 -2.209,0 -4,-2.015 -4,-4.5 z"
+         fill="#7f7f7f"
+         fill-rule="evenodd"
+         id="path37" />
+      <path
+         d="m 270,135.5 c 0,-2.485 1.791,-4.5 4,-4.5 2.209,0 4,2.015 4,4.5 0,2.485 -1.791,4.5 -4,4.5 -2.209,0 -4,-2.015 -4,-4.5 z"
+         fill="#7f7f7f"
+         fill-rule="evenodd"
+         id="path38" />
+      <path
+         d="m 307,135.5 c 0,-2.485 1.791,-4.5 4,-4.5 2.209,0 4,2.015 4,4.5 0,2.485 -1.791,4.5 -4,4.5 -2.209,0 -4,-2.015 -4,-4.5 z"
+         fill="#7f7f7f"
+         fill-rule="evenodd"
+         id="path39" />
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="translate(1.82394,171)"
+         id="text39">Apparent acceleration</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="translate(106.491,171)"
+         id="text40"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="translate(49.4906,184)"
+         id="text41">sensitivity &amp;</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="translate(109.157,184)"
+         id="text42"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="translate(41.6573,197)"
+         id="text43">Eddy currents</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="translate(106.491,197)"
+         id="text44"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="translate(69.1573,210)"
+         id="text45">per axis</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="translate(106.491,210)"
+         id="text46"></text>
+      <path
+         d="m 164,172 h 110.295 v 2 H 164 Z m 0,5 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z m 110.295,-8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 z"
+         fill="#7f7f7f"
+         id="path46" />
+      <path
+         d="m 174,172.5 c 0,-4.694 3.582,-8.5 8,-8.5 4.418,0 8,3.806 8,8.5 0,4.694 -3.582,8.5 -8,8.5 -4.418,0 -8,-3.806 -8,-8.5 z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill-rule="evenodd"
+         id="path47" />
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(175.997,179)"
+         id="text47">+</text>
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(187.664,179)"
+         id="text48"></text>
+      <path
+         d="m 201,183 h 110.295 v 2 H 201 Z m 0,5 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z m 110.295,-8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 z"
+         fill="#7f7f7f"
+         id="path48" />
+      <path
+         d="m 210,184 c 0,-4.418 3.806,-8 8.5,-8 4.694,0 8.5,3.582 8.5,8 0,4.418 -3.806,8 -8.5,8 -4.694,0 -8.5,-3.582 -8.5,-8 z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill-rule="evenodd"
+         id="path49" />
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(212.135,191)"
+         id="text49">+</text>
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(223.802,191)"
+         id="text50"></text>
+      <path
+         d="m 165,246 h 109.004 v 2 H 165 Z m 0,5 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z m 109.004,-8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 -2.21,0 -4,-1.791 -4,-4 0,-2.209 1.79,-4 4,-4 z"
+         fill="#7f7f7f"
+         id="path50" />
+      <path
+         d="m 175,247 c 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill-rule="evenodd"
+         id="path51" />
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(178.956,253)"
+         id="text51">-</text>
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(187.289,253)"
+         id="text52"></text>
+      <path
+         d="m 202,276 h 109.004 v 2 H 202 Z m 0,5 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z m 109.004,-8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 -2.21,0 -4,-1.791 -4,-4 0,-2.209 1.79,-4 4,-4 z"
+         fill="#7f7f7f"
+         id="path52" />
+      <path
+         d="m 214,277 c 0,-4.418 3.806,-8 8.5,-8 4.694,0 8.5,3.582 8.5,8 0,4.418 -3.806,8 -8.5,8 -4.694,0 -8.5,-3.582 -8.5,-8 z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill-rule="evenodd"
+         id="path53" />
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(218.854,283)"
+         id="text53">-</text>
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(227.187,283)"
+         id="text54"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(57.6707,232)"
+         id="text55">EC free,</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(23.1707,248)"
+         id="text56">displacement</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(80.8374,264)"
+         id="text57">and</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(30.1707,280)"
+         id="text58">acceleration</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(30.004,296)"
+         id="text59">artefact free</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(17.8374,312)"
+         id="text60">velocity image</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(103.004,312)"
+         id="text61"></text>
+      <path
+         d="M -1.50005,114.5 H 331.723"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path61" />
+      <path
+         d="M -1.50005,156.5 H 331.723"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path62" />
+      <path
+         d="m -1.50005,71.5001 333.22305,1e-4"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path63" />
+      <path
+         d="M -1.50005,216.5 H 331.723"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path64" />
+      <path
+         d="M -1.50005,378.5 H 331.723"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path65" />
+      <g
+         id="g70">
+        <g
+           id="g69">
+          <g
+             id="g68">
+            <path
+               d="m 188.892,37.9272 c -2.744,-0.4519 -4.755,-2.8278 -4.747,-5.6088 0.004,-0.3444 0.039,-0.6878 0.105,-1.0259 h 0.018 l 0.4,0.6934 c 0.121,0.2096 0.388,0.2816 0.598,0.1608 0.21,-0.1208 0.282,-0.3887 0.161,-0.5983 l -0.93,-1.6078 c -0.058,-0.1001 -0.153,-0.1732 -0.265,-0.2034 -0.112,-0.0302 -0.231,-0.0144 -0.332,0.0437 l -1.619,0.9341 c -0.214,0.112 -0.297,0.3764 -0.185,0.5905 0.112,0.2141 0.377,0.2968 0.591,0.1848 0.011,-0.0057 0.021,-0.0118 0.032,-0.0184 l 0.669,-0.3872 c -0.078,0.4066 -0.117,0.8197 -0.118,1.2337 -0.01,3.2059 2.306,5.9462 5.469,6.4707 h 0.074 c 0.242,0.0193 0.453,-0.1609 0.473,-0.4025 0.019,-0.2417 -0.161,-0.4532 -0.403,-0.4725 z"
+               stroke="#000000"
+               stroke-width="0.35"
+               id="path66" />
+            <path
+               d="m 196.395,32.3184 c 10e-4,-0.7816 -0.138,-1.5572 -0.409,-2.2903 -0.085,-0.2265 -0.337,-0.3416 -0.563,-0.257 -0.227,0.0846 -0.342,0.3368 -0.257,0.5633 1.095,2.9439 -0.404,6.2184 -3.348,7.3138 -0.021,0.0078 -0.042,0.0155 -0.063,0.023 v 0 l 0.398,-0.6956 c 0.121,-0.2102 0.049,-0.4785 -0.161,-0.5993 -0.211,-0.1209 -0.479,-0.0484 -0.6,0.1618 l -0.919,1.6122 c -0.12,0.2096 -0.047,0.477 0.162,0.5972 0,0 0,0 0,0 l 1.612,0.9209 c 0.211,0.1209 0.479,0.0484 0.6,-0.1618 0.121,-0.2103 0.048,-0.4786 -0.162,-0.5994 L 192.003,38.52 c 2.639,-0.9156 4.404,-3.4079 4.392,-6.2016 z"
+               stroke="#000000"
+               stroke-width="0.35"
+               id="path67" />
+            <path
+               d="m 192.676,27.9369 c -0.241,0 -0.437,0.1958 -0.437,0.4375 0,0.2416 0.196,0.4375 0.437,0.4375 h 1.798 c 0.017,10e-4 0.034,10e-4 0.051,0 0.084,0 0.166,-0.0251 0.236,-0.0722 l 0.031,-0.0197 0.013,-0.0109 v 0 l 0.028,-0.0219 c 0.086,-0.0817 0.135,-0.1945 0.136,-0.3128 v -1.855 c 0,-0.2417 -0.196,-0.4375 -0.438,-0.4375 -0.241,0 -0.437,0.1958 -0.437,0.4375 v 0.7984 0 c -2.759,-2.3507 -6.901,-2.02 -9.252,0.7387 -0.01,0.0118 -0.02,0.0237 -0.03,0.0357 -0.156,0.1848 -0.132,0.461 0.053,0.6169 0.185,0.1558 0.461,0.1323 0.617,-0.0525 2.009,-2.3929 5.572,-2.7172 7.98,-0.7263 z"
+               stroke="#000000"
+               stroke-width="0.35"
+               id="path68" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g74">
+        <g
+           id="g73">
+          <g
+             id="g72">
+            <path
+               d="M 9.89188,15.9272 C 7.14787,15.4753 5.13702,13.0994 5.145,10.3184 5.14913,9.97399 5.18427,9.63064 5.25,9.2925 H 5.2675 L 5.66781,9.98594 C 5.78863,10.1955 6.05649,10.2675 6.26609,10.1467 6.4757,10.0259 6.54769,9.75804 6.42687,9.54844 L 5.49719,7.94062 C 5.43931,7.8405 5.34415,7.76735 5.2325,7.73719 5.12026,7.70702 5.00063,7.72277 4.9,7.78094 L 3.28125,8.715 C 3.06716,8.827 2.98438,9.09136 3.09638,9.30545 3.20838,9.51956 3.47274,9.60232 3.68683,9.49032 3.69773,9.48463 3.70838,9.47848 3.71875,9.47188 L 4.38812,9.08469 C 4.31027,9.49134 4.27072,9.90441 4.27,10.3184 c -0.00993,3.206 2.30602,5.9462 5.46875,6.4707 h 0.07438 c 0.24167,0.0193 0.45317,-0.1609 0.47247,-0.4025 0.0194,-0.2417 -0.1608,-0.4532 -0.40247,-0.4725 z"
+               stroke="#000000"
+               stroke-width="0.35"
+               transform="matrix(1,0,0,-1,299,44)"
+               id="path70" />
+            <path
+               d="M 17.395,10.3184 C 17.3959,9.53676 17.2574,8.76118 16.9859,8.02812 16.9014,7.80161 16.6492,7.68653 16.4227,7.77109 c -0.2266,0.08457 -0.3416,0.33677 -0.2571,0.56328 1.0954,2.94393 -0.4032,6.21843 -3.3472,7.31383 -0.021,0.0078 -0.042,0.0155 -0.0631,0.023 v 0 l 0.3981,-0.6956 c 0.1209,-0.2102 0.0484,-0.4785 -0.1618,-0.5993 -0.2103,-0.1209 -0.4786,-0.0484 -0.5994,0.1618 l -0.9188,1.6122 c -0.1202,0.2096 -0.0477,0.477 0.1619,0.5972 0,0 0,0 0,0 l 1.6122,0.9209 c 0.2102,0.1209 0.4786,0.0484 0.5994,-0.1618 0.1208,-0.2103 0.0483,-0.4786 -0.1619,-0.5994 L 13.0025,16.52 c 2.6394,-0.9156 4.4046,-3.4079 4.3925,-6.2016 z"
+               stroke="#000000"
+               stroke-width="0.35"
+               transform="matrix(1,0,0,-1,299,44)"
+               id="path71" />
+            <path
+               d="m 13.6763,5.93687 c -0.2417,0 -0.4375,0.19587 -0.4375,0.4375 0,0.24164 0.1958,0.4375 0.4375,0.4375 h 1.7981 c 0.0167,0.00108 0.0335,0.00108 0.0503,0 0.0842,3e-5 0.1665,-0.02511 0.2362,-0.07218 L 15.7916,6.72 15.8047,6.70906 v 0 L 15.8331,6.68719 C 15.9188,6.60555 15.9677,6.4927 15.9688,6.37437 v -1.855 c 0,-0.24163 -0.1959,-0.4375 -0.4376,-0.4375 -0.2416,0 -0.4374,0.19587 -0.4374,0.4375 v 0.79844 0 C 12.3351,2.9671 8.19313,3.29781 5.84242,6.05647 5.83229,6.06832 5.82223,6.08024 5.81219,6.09219 5.65635,6.27703 5.67984,6.55323 5.86469,6.70906 6.04953,6.8649 6.32573,6.84141 6.48156,6.65656 8.49054,4.26368 12.0536,3.93942 14.4616,5.93031 Z"
+               stroke="#000000"
+               stroke-width="0.35"
+               transform="matrix(1,0,0,-1,299,44)"
+               id="path72" />
+          </g>
+        </g>
+      </g>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(21.9105,338)"
+         id="text74">Eddy currents</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(102.91,338)"
+         id="text75"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(56.5772,354)"
+         id="text76">per axis</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="13px"
+         transform="translate(102.91,354)"
+         id="text77"></text>
+      <path
+         d="M -1.50005,321.5 H 331.723"
+         stroke="#7f7f7f"
+         stroke-width="0.666667"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path77" />
+      <path
+         d="m 165,335 h 109.004 v 2 H 165 Z m 0,5 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z m 109.004,-8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 -2.21,0 -4,-1.791 -4,-4 0,-2.209 1.79,-4 4,-4 z"
+         fill="#7f7f7f"
+         id="path78" />
+      <path
+         d="m 175,336 c 0,-4.418 3.582,-8 8,-8 4.418,0 8,3.582 8,8 0,4.418 -3.582,8 -8,8 -4.418,0 -8,-3.582 -8,-8 z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill-rule="evenodd"
+         id="path79" />
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(178.956,342)"
+         id="text79">-</text>
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(187.289,342)"
+         id="text80"></text>
+      <path
+         d="m 202,365 h 109.004 v 2 H 202 Z m 0,5 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z m 109.004,-8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 -2.21,0 -4,-1.791 -4,-4 0,-2.209 1.79,-4 4,-4 z"
+         fill="#7f7f7f"
+         id="path80" />
+      <path
+         d="m 214,366 c 0,-4.418 3.806,-8 8.5,-8 4.694,0 8.5,3.582 8.5,8 0,4.418 -3.806,8 -8.5,8 -4.694,0 -8.5,-3.582 -8.5,-8 z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill-rule="evenodd"
+         id="path81" />
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(218.854,372)"
+         id="text81">-</text>
+      <text
+         fill="#ffffff"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="21px"
+         transform="translate(227.187,372)"
+         id="text82"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="8px"
+         transform="translate(198.953,331)"
+         id="text83">Subtract analytical velocity</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="8px"
+         transform="translate(296.62,331)"
+         id="text84"></text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="8px"
+         transform="translate(229.322,359)"
+         id="text85">Subtract analytical velocity</text>
+      <text
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="700"
+         font-size="8px"
+         transform="translate(326.989,359)"
+         id="text86"></text>
+    </g>
+  </g>
+</svg>
