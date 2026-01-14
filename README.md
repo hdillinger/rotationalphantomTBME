@@ -86,7 +86,7 @@ The phantom consists of:
 - External laser-based tachometer providing high-precision angular velocity measurements  
 - Fully MRI-compatible materials and layout  
 
-Complete CAD files, bills of materials, and assembly instructions are provided in the `hardware/` directory.
+Complete CAD files, bills of materials and assembly instructions are provided in the `hardware/` directory.
 
 ![](/static/step_animation.gif)
 
@@ -154,9 +154,7 @@ The simulation environment is provided in a ready-to-use singularity container. 
 
 ## License
 
-This project is released under the **MIT License**.
-
-You are free to use, modify, and distribute this work, provided that the original authors are credited. See the `LICENSE` file for details.
+Please see `DISCLAIMER.pdf` for information on the license.
 
 ## Questions
 
@@ -164,13 +162,14 @@ Check out our department homepage for more information and contact info https://
 
 ## Citation
 
-If you use this phantom, software, or data in your research, please cite the accompanying paper:
+If you use this phantom, software or data in your research, please cite the accompanying paper:
 
 ```bibtex
 @article{OpenSourceRotationalPhantom,
   title   = {Analytical Ground Truth for Phase-Contrast MRI experiments and simulations: Open-Source Precision-Controlled Bidirectional Rotational Phantom},
-  author  = {...},
-  journal = {...},
-  year    = {...}
+  author  = {Yu Wang, Sina Thuemmler, Sebastian Schmitter and Hannes Dillinger},
+  journal = {IEEE Transactions on Biomedical Engineering},
+  doi = {10.1109/TBME.2025.3630749},
+  year    = {2025}
 }
 ```
