@@ -125,6 +125,7 @@ This makes the phantom suitable for:
 - Cross-institutional validation studies  
 
 ## Disclaimer
+
 This repository is provided “as is”, without warranty of any kind, express or implied. The authors and contributors assume no responsibility or liability whatsoever for any damage, malfunction, data loss or safety issues arising from the use of this hard- and software. This explicitly includes, but is not limited to, the use of open-source Pulseq sequences, which may be experimental, incomplete or unsuitable for specific MRI systems and can cause serious damage to MRI hardware or associated equipment if used improperly.
 
 Use of this hard- and software and any associated MR sequence files is entirely at the user’s own risk. It is the user’s sole responsibility to verify correctness, safety, regulatory compliance and suitability for their specific MRI system and experimental setup before use.
@@ -147,13 +148,9 @@ Use of this hard- and software and any associated MR sequence files is entirely 
 
 ## Requirements
 
-- Python
-- NumPy  
-- SciPy  
-- Matplotlib  
-- nibabel  
+Depending on the task, `requirements.txt` files are provided in the folders `software/analysis/requirements.txt`, `software/pid/requirements.txt` and `software/recon/requirements.txt` for convenience. The dependences are kept to a minimum.
 
-`software/pid/requirements.txt` and `software/sim/requirements.txt` file is provided for convenience.
+The simulation environment is provided in a ready-to-use singularity container. See `software/sim/apptainer_jupyter.def` for details.
 
 ## License
 

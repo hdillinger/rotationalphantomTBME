@@ -1,0 +1,53 @@
+Bootstrap: docker
+From: tensorflow/tensorflow:2.15.0
+
+%environment
+    export JUPYTER_PORT=8888
+    export JUPYTER_DIR=/home/
+
+%post
+    # Weird fix if apt mirror is not reachable
+    awk -F ',' -v OFS=',' '{gsub("http://archive","http://ch.archive")}'1 /etc/apt/sources.list > tmp.log
+    cp tmp.log /etc/apt/sources.list
+
+    # Install Jupyterlab
+    apt-get update
+    apt-get install nodejs npm -y
+    pip install ipykernel ipywidgets ipympl
+    npm install -g configurable-http-proxy
+    python3 -m pip install jupyterlab notebook --force-reinstall
+    python3 -m pip install jupyterlab_myst
+    python3 -m pip install ipywidgets --force-reinstall
+    python3 -m pip install jupyter-server-proxy
+    python3 -m pip install jupyterlab-git
+    python3 -m pip install theme-darcula
+    python3 -m pip install jupyterlab-lsp
+    python3 -m pip install 'python-lsp-server[all]'
+    python3 -m pip install jupyter-resource-usage
+
+    # Install pyvista including interactive trame rendering
+    apt-get update -y \
+    && apt-get install -yq --no-install-recommends \
+     libfontconfig1 libxrender1 libosmesa6
+    apt install -y libgl1-mesa-glx libxrender1 libx11-6 libgl1-mesa-dev libxrender-dev xvfb
+    apt-get clean && rm -rf /var/lib/apt/lists/*
+    pip install pyvista
+    pip uninstall vtk -y
+    pip install --no-cache-dir --extra-index-url https://wheels.vtk.org vtk-osmesa
+    pip install cmocean colorcet imageio imageio-ffmpeg matplotlib meshio
+    pip install trame trame-vtk trame-vuetify
+
+    # Install git
+    #apt-get install git git-lfs -y
+
+    pip install h5py scipy tqdm phantominator pint
+    pip install tensorflow[and-cuda]
+
+    pip install cmrseq
+    pip install cmrsim
+    #pip install -e 'git+https://gitlab.ethz.ch/ibt-cmr/mri_simulation/cmrsim.git@development#egg=cmrsim'
+    #pip install -e 'git+https://gitlab.ethz.ch/ibt-cmr/mri_simulation/cmrseq.git@main#egg=cmrseq'
+
+
+%startscript
+    jupyter-lab --port $JUPYTER_PORT $JUPYTER_DIR
