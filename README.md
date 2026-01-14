@@ -70,7 +70,7 @@ The apparent acceleration $\vec{a}=\vec{\omega}\times\vec{v}$ for a solid body r
 |   Python script for PID control and logging
 │   └───sim
 |   Python script for MRI simulation
-│   └───eval
+│   └───analysis
 |   Python script for data evaluation
 
 |───static
@@ -124,19 +124,26 @@ This makes the phantom suitable for:
 - Quality assurance across MRI systems  
 - Cross-institutional validation studies  
 
+## Disclaimer
+This repository is provided “as is”, without warranty of any kind, express or implied. The authors and contributors assume no responsibility or liability whatsoever for any damage, malfunction, data loss or safety issues arising from the use of this hard- and software. This explicitly includes, but is not limited to, the use of open-source Pulseq sequences, which may be experimental, incomplete or unsuitable for specific MRI systems and can cause serious damage to MRI hardware or associated equipment if used improperly.
+
+Use of this hard- and software and any associated MR sequence files is entirely at the user’s own risk. It is the user’s sole responsibility to verify correctness, safety, regulatory compliance and suitability for their specific MRI system and experimental setup before use.
+
 ## Getting Started
 
 1. **Build the phantom**  
-   Follow the instructions in `docs/assembly_instructions.md`.
+   Follow the instructions in `hardware/rotphantom_drawing_doc.pdf`.
 
 2. **Calibrate the system**  
-   See `docs/calibration.md` for tachometer and airflow calibration.
+   See `docs/rotphantom_manual.pdf` for tachometer and airflow calibration.
 
 3. **Acquire MRI data**  
-   Use vendor or custom PC-MRI sequences as described in `docs/experimental_protocol.md`.
+   Use vendor or custom PC-MRI sequences as described in `docs/rotphantom_sequences.pdf`.
 
 4. **Run analysis**  
    Execute the Python scripts in `software/analysis/` to reproduce the evaluation and plots.
+
+![](/static/connection_diagram.png)
 
 ## Requirements
 
@@ -146,7 +153,7 @@ This makes the phantom suitable for:
 - Matplotlib  
 - nibabel  
 
-A `requirements.txt` file is provided for convenience.
+`software/pid/requirements.txt` and `software/sim/requirements.txt` file is provided for convenience.
 
 ## License
 
